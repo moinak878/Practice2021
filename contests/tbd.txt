@@ -1,0 +1,13 @@
+Number Theory Revision of concepts
+Binary search practise questions (searching and sorting)
+Dynamic Programming (Atcoder , ColinGalen Mashup , Educational DP)
+
+Binary search definitely more than 5 questions I can do
+Today saw 5 tough questions and learnt a new way to think about DP
+
+Errichto leetcode -1 
+Colin galen - 4 ques
+=============================
+
+Practise for RECode 17.0
+Work with templates
